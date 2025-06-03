@@ -1,2 +1,8 @@
-# Secure-Chat-Application-
-SecureChat is an AI-powered messaging system designed to detect and block harmful or abusive content in real-time. The system leverages Natural Language Processing (NLP) techniques and Machine Learning to identify threatening or offensive language, including text-based bullying and inappropriate emoji use.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
